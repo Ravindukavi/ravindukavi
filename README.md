@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ravindu Wickramasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka India</h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindukavi&label=Profile%20views&color=0e75b6&style=flat" alt="ravindukavi" /> </p>
 
