@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 👨‍💻 My personal website [ravinduwickramasinghe.rf.gd](ravinduwickramasinghe.rf.gd)
+- 👨‍💻 My personal website [Portfolio ](ravinduwickramasinghe.rf.gd)
 
 - 📫 How to reach me **rkavishka2004@gmail.com**
 
