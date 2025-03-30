@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Ravindu Wickramasinghe</h1>
 <h3 align="center">A passionate Fullstack Software Developer from Sri Lanka</h3>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - 👨‍💻 My personal website [ravinduwickramasinghe.me ](https://ravinduwickramasinghe.rf.gd)
 
@@ -17,7 +16,6 @@
 <a href="https://instagram.com/rav1ndu_kav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rav1ndu_kav1" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 💻 Tech Stack:
 
