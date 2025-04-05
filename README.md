@@ -1,6 +1,6 @@
 ### About Me 👋
 
- <img  align="right" alt="Coding" width="300" src="./ravindu_banner.png"> </img>
+ <img alt="Banner" width="600" src="./ravindu_banner.png"> </img>
 
 <h1 align="center">Hi 👋, I'm Ravindu Wickramasinghe</h1>
 <h3 align="center">A passionate Fullstack Software Developer from Sri Lanka</h3>
