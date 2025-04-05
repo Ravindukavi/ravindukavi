@@ -1,8 +1,7 @@
-### About Me 👋
+<h1 align="center">Hi 👋,</h1>
 
- <img align="center" alt="Banner" width="700" src="./ravindu_banner.png"> </img>
+<img align="center" alt="Banner" width="700" src="./ravindu_banner.png"> </img>
 
-<h1 align="center">Hi 👋, I'm Ravindu Wickramasinghe</h1>
 <h3 align="center">A passionate Fullstack Software Developer from Sri Lanka</h3>
 
 - 👨‍💻 My personal website [ravinduwickramasinghe.me ](https://ravinduwickramasinghe.rf.gd)
