@@ -10,7 +10,7 @@
 # Connect with me:
 
 <div align="left">
-  <img  align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ5ZDB1M28wbHMyZmJ3bXh5dDQ0Mzdvd244Yng1Y3puamU5N284cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"> </img>
+  <img  align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ5ZDB1M28wbHMyZmJ3bXh5dDQ0Mzdvd244Yng1Y3puamU5N284cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"> </img>
 
  <a href="https://www.linkedin.com/in/ravindu-wickramasinghe-116063241/" target="_blank">
 <img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52" height="40" alt="linkedin logo" />
