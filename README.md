@@ -28,6 +28,8 @@
   <a href="https://medium.com/@rwickramasinghe2004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
   </a>
+
+ <img  align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ5ZDB1M28wbHMyZmJ3bXh5dDQ0Mzdvd244Yng1Y3puamU5N284cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif"> </img>
 </div>
 
 
