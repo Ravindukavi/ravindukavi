@@ -49,7 +49,9 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ravindukavi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Ravindukavi&theme=dark&hide_border=false) <br/>
+ ![](https://github-readme-stats.vercel.app/api?username=Ravindukavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ravindukavi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindukavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td>
 <td width="50%" align="center">
 
