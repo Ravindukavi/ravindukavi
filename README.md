@@ -6,7 +6,7 @@
 
 - 👨‍💻 My personal website [ravinduwickramasinghe.me ](https://ravinduwickramasinghe.rf.gd)
 
-- 📫 How to reach me **ravindu@hexaplexa.com**
+- 📫 How to reach me **ravindu@lyrexlabs.com**
 
 # Connect with me:
 
